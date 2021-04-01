@@ -1,8 +1,0 @@
-/*
-THIS IS FILE IS TO USED TO IMPORT TAILWIND CSS STYLES AND FOR CUSTOM CONFIGURATIONS AND RULES.
-*/
-@import "tailwindcss/base";
-
-@import "tailwindcss/components";
-
-@import "tailwindcss/utilities";
