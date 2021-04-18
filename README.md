@@ -13,3 +13,7 @@
 ## project 5: grocery-list
 
 ## project 6: navbar
+
+## project 7: login form
+
+## project 8: resort website
