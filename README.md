@@ -1,6 +1,6 @@
 # React-Projects
 
-## Project 1: tailwindcss-project
+## Project 1:
 
 ## Project 2: nearby-friends
 
@@ -16,4 +16,6 @@
 
 ## project 7: login form
 
-## project 8: resort website
+## project 8: stripe homepage
+
+## project 9: resort website
