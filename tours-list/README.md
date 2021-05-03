@@ -17,3 +17,7 @@ npm install && npm start
 7. Show readMore or show less button
 8. Remove tours
 9. Reload
+
+## UI preview
+
+![Alt text](./public/our-tours.png)
